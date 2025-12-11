@@ -16,13 +16,6 @@ class QuantitySelector extends StatelessWidget {
   Widget build(BuildContext context) {
     return Row(
       children: [
-        // Code for Add to Cart Button
-        QuantitySelector(
-          quantity: quantity,
-          onIncrement: () => setState(() => quantity += 1),
-          onDecrement: () => setState(() => quantity -= 1),
-        ),
-
         // Decrement Button
         IconButton(
           icon: const Icon(Icons.remove_circle_outline),
