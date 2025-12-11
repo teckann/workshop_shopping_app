@@ -5,6 +5,6 @@ final User user = User(
   email: "TP083567@mail.apu.edu.my",
 
   photoUrl:
-      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.curseforge.com%2Fmembers%2Fmaxshin&psig=AOvVaw2ls7auAvaYmeTKWoKK998a&ust=1765540991737000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjyr---tZEDFQAAAAAdAAAAABAE",
+      "https://i.pinimg.com/236x/60/c1/da/60c1da97030b890ca4d8397f7557f285.jpg",
   address: "Bukit Jalil, Kuala Lumpur",
 );
