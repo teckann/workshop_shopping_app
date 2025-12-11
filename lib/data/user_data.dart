@@ -1,11 +1,10 @@
 import '../models/user.dart';
 
 final User user = User(
-  name: "Ali bin Abu",
-  email: "ali.abu@example.com",
+  name: "Gan Teck Ann",
+  email: "TP083567@mail.apu.edu.my",
 
   photoUrl:
-      "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&auto=format&fit=crop&w=880&q=80",
-  address:
-      "No. 12, Jalan Teknologi, Kota Damansara, 47810 Petaling Jaya, Selangor",
+      "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.curseforge.com%2Fmembers%2Fmaxshin&psig=AOvVaw2ls7auAvaYmeTKWoKK998a&ust=1765540991737000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjyr---tZEDFQAAAAAdAAAAABAE",
+  address: "Bukit Jalil, Kuala Lumpur",
 );
